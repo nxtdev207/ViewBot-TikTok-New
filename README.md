@@ -6,3 +6,4 @@ Dms : Telegram @tcplmao
 4. Do pip install selenium==4.11.02 in your command prompt
 5. Run the main.py
 6. Don't touch the browser until zefoy load otherwise cloudflare won't be bypassed
+z
