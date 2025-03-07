@@ -1,8 +1,8 @@
 VIEWBOT VIP : https://www.youtube.com/watch?v=4fy9Uf2wYJA
-buy dms : @tcplmao
+buy dms : @ryanguyendev
 TELEGRAM
 # ViewBot-TikTok-New
-Dms : Telegram @tcplmao
+Dms : Telegram @ryanguyendev
 1. Do pip uninstall undetected-chromedriver in your command prompt
 2. Install requirements.txt by typing pip install -r requirements.txt in your command prompt.
 3. Do pip uninstall selenium in your command prompt
